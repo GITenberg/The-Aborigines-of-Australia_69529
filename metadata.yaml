@@ -1,0 +1,27 @@
+_repo: The-Aborigines-of-Australia_69529
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sadleir, Richard
+    gutenberg_agent_id: '55300'
+    url: http://www.gutenberg.org/2009/agents/55300
+description: ''
+gutenberg_issued: '2022-12-12'
+identifiers:
+  gutenberg: '69529'
+language: en
+pgterms:marc904: https://archive.org/details/aboriginesofaust00sadl/page/n5/mode/2up
+pgterms:marc905: 20201207071151sadleir
+pgterms:marc906: '1883'
+pgterms:marc907: AU
+production_note: Tim Lindell, Quentin Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'Australia: Thomas Richards,1883.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Aborigines of Australia
+url: http://www.gutenberg.org/ebooks/69529
