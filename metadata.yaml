@@ -1,11 +1,16 @@
 _repo: The-Aborigines-of-Australia_69529
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69529-h/images/cover.jpg
 creator:
   author:
     agent_name: Sadleir, Richard
     gutenberg_agent_id: '55300'
     url: http://www.gutenberg.org/2009/agents/55300
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69529#The-Aborigines-of-Australia
 gutenberg_issued: '2022-12-12'
 identifiers:
   gutenberg: '69529'
